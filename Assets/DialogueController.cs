@@ -128,7 +128,7 @@ public class DialogueController : MonoBehaviour {
     }
 
     public void endDay(){
-        displaySentence("Sleep time");
+        displaySentence("Sleep mode");
         resetButtons();
         cont.GetComponent<Button>().onClick.AddListener(delegate{
             generatePattern();
