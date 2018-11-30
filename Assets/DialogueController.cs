@@ -133,7 +133,7 @@ public class DialogueController : MonoBehaviour {
         cont.GetComponent<Button>().onClick.AddListener(delegate{
             generatePattern();
         });
-        showButtons("proceed");
+        showButtons("proceed next");
         patternIndex= 1;
         days+=1;
 
