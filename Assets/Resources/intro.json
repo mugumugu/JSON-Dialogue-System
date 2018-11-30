@@ -1,0 +1,180 @@
+{"scenario":
+  [
+    {
+      "id": 1,
+      "index": 1,
+      "type": "s",
+      "sentence": "Cap...tain..",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "type": "s",
+      "sentence": "Capt..ain...ca...you...ar...me?",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 3,
+      "type": "s",
+      "sentence": "Captain,can you hear me?",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 4,
+      "type": "s",
+      "sentence": "Ah,your finally awake.that is good.now then",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 5,
+      "type": "s",
+      "sentence": "Please try to relax.",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 6,
+      "type": "s",
+      "sentence": "Let me introduce myself first.I am MAYA.an AI Mainframe,i shall accompany you throughout your voyage",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 7,
+      "type": "s",
+      "sentence": "Before i brief you your tasks.i will ask you a few questions first...",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 8,
+      "type": "d",
+      "sentence": "How often do you think about death?",
+      "response": "Quite often:Rarely",
+      "result": "trigger",
+      "consq": "is that so..",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 10,
+      "type": "d",
+      "sentence": "If there is hell,do you think you're going there?",
+      "response": "...wait,what?:I think so",
+      "result": "trigger",
+      "consq": "Lastly",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 12,
+      "type": "d",
+      "sentence": "Would you rather bleed out or be set on fire?",
+      "response": "uh..by fire i guess:hm..rather bleed out..i think",
+      "result": "trigger",
+      "consq": "Hmmm.Interesting",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 14,
+      "type": "s",
+      "sentence": "Now all that aside.Please listen carefully.",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 15,
+      "type": "s",
+      "sentence": "You've been in cryosleep for 7 years.you might have forgotten the main purpose of this voyage",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 16,
+      "type": "s",
+      "sentence": "That purpose is to find a new habitable planet.",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 17,
+      "type": "s",
+      "sentence": "I suppose you're aware that your homeland has met its \"unnecessary\" end",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 18,
+      "type": "s",
+      "sentence": "Lets not make the same mistake on the next one",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 19,
+      "type": "s",
+      "sentence": "This colony's faith is in your hands now.",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    }
+  ]
+}

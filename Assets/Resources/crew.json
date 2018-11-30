@@ -1,0 +1,37 @@
+{"scenario":
+	[
+    {
+      "id": 1,
+      "index": 1,
+      "type": "s",
+      "sentence": "There's a thud coming from the upper area of the ship",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "type": "s",
+      "sentence": "I could investigate it if you need me sir",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 3,
+      "type": "d",
+      "sentence": "You...",
+      "response": "Allowed it:Ignore it",
+      "result": "crew:stop",
+      "consq": "{characterName} was hit by a metal debris in the head killing {gender} immediately:There was a lose screw near the Area,it might made a heavy damage to the ship,good thing it was fixed early",
+      "character": "",
+      "mood": ""
+    }
+  ]
+}

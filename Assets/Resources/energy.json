@@ -1,0 +1,37 @@
+{"scenario":
+	[
+    {
+      "id": 1,
+      "index": 1,
+      "type": "s",
+      "sentence": "We've deteceted a possible solar flare nearby our position",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "type": "s",
+      "sentence": "It might damage our components sir",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 3,
+      "type": "d",
+      "sentence": "What should we do sir?",
+      "response": "Turn off Equipments:Change course",
+      "result": "energy:stop",
+      "consq": "The ship managed to withstand the flare:A lot of electrical equipments where heavily damaged",
+      "character": "",
+      "mood": ""
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{"scenario":
+	[
+    {
+      "id": 1,
+      "index": 1,
+      "type": "s",
+      "sentence": "We've detected a drifting object nearby to our location sir.",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "type": "s",
+      "sentence": "It seems that its a {satelliteType},We may be able to scrap it for parts",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 1,
+      "index": 3,
+      "type": "d",
+      "sentence": "What should we do sir?",
+      "response": "Scavenge it:Stay on route",
+      "result": "supply:stop",
+      "consq": "You managed to scrap some parts from it:The parts where burnt up it was beyond salvage",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 2,
+      "index": 1,
+      "type": "s",
+      "sentence": "A drifting crate was floating nearby our position",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "type": "s",
+      "sentence": "There's a {logo} printed to its side.",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "type": "d",
+      "sentence": "What should we do sir?",
+      "response": "Capture it:Leave it be",
+      "result": "supply:stop",
+      "consq": "You retrieved something : The crate was empty",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 3,
+      "index": 1,
+      "type": "s",
+      "sentence": "A distress beacon was detected as nearby our sector",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 3,
+      "index": 2,
+      "type": "s",
+      "sentence": "its coming from {shipname},It looks like a {shipType}",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "type": "s",
+      "sentence": "However the said area is swarmed by {object}",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 3,
+      "index": 5,
+      "type": "s",
+      "sentence": "If we are to proceed we might out ship might take some damage.",
+      "response": "",
+      "result": "",
+      "consq": "",
+      "character": "",
+      "mood": ""
+    },
+    {
+      "id": 3,
+      "index": 6,
+      "type": "d",
+      "sentence": "How should we proceed sir?",
+      "response": "Stay on course:Approach Beacon",
+      "result": "stop:supply",
+      "consq": "You stumbled upon a space station.it looks like it was abandoned for a long time.However your crew manage to scavenge a few supplies from the cargo bay:It was just a scout beacon.you left it alone.",
+      "character": "",
+      "mood": ""
+    }
+  ]
+}
